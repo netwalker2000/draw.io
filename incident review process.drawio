@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2021-08-04T02:38:10.619Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.9.3" etag="y58iowAe9GAVgnzHE0AT" type="github"><diagram id="8HX_eq80kA6MsnKXIkYd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-04T03:05:07.906Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ooDWlWPsPzVP9NQGxuvz" version="14.9.3" type="github">
+  <diagram id="8HX_eq80kA6MsnKXIkYd" name="Page-1">
+    <mxGraphModel dx="1111" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RaKEgeakJM32mW70W7Yh-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RaKEgeakJM32mW70W7Yh-2" target="RaKEgeakJM32mW70W7Yh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaKEgeakJM32mW70W7Yh-2" value="&lt;span&gt;Incident Report&lt;/span&gt;&lt;br&gt;&lt;span&gt;Creation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaKEgeakJM32mW70W7Yh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RaKEgeakJM32mW70W7Yh-3" target="RaKEgeakJM32mW70W7Yh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaKEgeakJM32mW70W7Yh-3" value="Internal Review" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaKEgeakJM32mW70W7Yh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RaKEgeakJM32mW70W7Yh-4" target="RaKEgeakJM32mW70W7Yh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaKEgeakJM32mW70W7Yh-21" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RaKEgeakJM32mW70W7Yh-17">
+          <mxGeometry y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaKEgeakJM32mW70W7Yh-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RaKEgeakJM32mW70W7Yh-4" target="RaKEgeakJM32mW70W7Yh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaKEgeakJM32mW70W7Yh-22" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RaKEgeakJM32mW70W7Yh-20">
+          <mxGeometry x="0.0108" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RaKEgeakJM32mW70W7Yh-4" value="causing financial loss&lt;br&gt;or TL add it to list" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RaKEgeakJM32mW70W7Yh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RaKEgeakJM32mW70W7Yh-5" target="RaKEgeakJM32mW70W7Yh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaKEgeakJM32mW70W7Yh-5" value="Presentation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaKEgeakJM32mW70W7Yh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RaKEgeakJM32mW70W7Yh-6" target="RaKEgeakJM32mW70W7Yh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaKEgeakJM32mW70W7Yh-6" value="Improvement&lt;br&gt;tracking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="700" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaKEgeakJM32mW70W7Yh-7" value="Incident Closure" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="870" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaKEgeakJM32mW70W7Yh-8" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Incident Lifecycle&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="220" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
